@@ -1,0 +1,3 @@
+what happened when u initialize a repository?
+
+created a new empty repository
